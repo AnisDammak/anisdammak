@@ -1,4 +1,4 @@
 function afficherMessage() {
-    alert("Bravo ! Tu as cliqué sur :)");
+    alert("Bravo ! Tu as cliqué :)");
   }
   
