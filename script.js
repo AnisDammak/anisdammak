@@ -1,4 +1,4 @@
 function afficherMessage() {
-    alert("Bravo ! Tu as cl :)");
+    alert("Bravo ! Tu as gagné :)");
   }
   
